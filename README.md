@@ -25,19 +25,6 @@ A console-based Library Management System built using **Java** and **MySQL**. Th
 
 ---
 
-## 🗂️ Project Structure
-LibraryManagementSystem/
-├── db/
-│ └── DBConnection.java
-├── models/
-│ ├── Book.java
-│ ├── User.java
-│ └── Transaction.java
-├── services/
-│ ├── BookService.java
-│ ├── UserService.java
-│ └── TransactionService.java
-├── mysql-connector-j-9.4.0.jar
-├── Main.java
-└── README.md
+
+
 
